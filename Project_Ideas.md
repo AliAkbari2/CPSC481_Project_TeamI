@@ -26,6 +26,8 @@ The second category would be a specific filter, dedicated to specific acts which
 said-act; taking the interacting-user to an evidence page, which could also lead directly to the user’s blacklist profile page. The last category would be dedicated for 
 submissions for potential offenses. This website could also have a mobile-friendly version. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Idea-02:**
 ### AR Plant Status App:
 
@@ -39,9 +41,48 @@ The experience of needing to jump between several apps just to manage one aspect
 ##### Concept and Distribution: 
 Our proposed solution to the above problem is to design a mobile app featuring an AR status screen for each plant the phone camera sees. The status screen would offer a colour-based representation of the health of the plant, as well as the nickname and species of the plant. The status screen would be expandable upon being clicked to show more detailed information about the status of each aspect of plant health, like soil water saturation, amount of sunlight in a day, soil nutrient levels (fertilizer), and any diseases. The app would compute the status by extracting an image of the plant from the camera view, and performing a deep learning algorithm on the image to compare it with existing images of the same plant at varying health levels. Sunlight would be tracked based on the location of the phone compared to the supposed location of the sun based on the time of day. Water and fertilizer levels would need to be tracked based on user input as the visibility of soil in a plant pot is not guaranteed. It would be possible to automatically detect water levels based on the view of the soil in the case where soil is visible. Another option is to ask the user to select from a list of images of soil, which image their soil matches best. Once it is time to water or fertilize a plant, the app will send a reminder to the user (based on user preferences). As for the education part of plant care apps, our mobile app would feature a library of articles on the basics of plant care. It may point the user to a certain article from the plant status screen if it shows a particular issue. The library would also be searchable and the content would be grouped into hierarchies of information. The app would be distributed on app stores for Google and Apple and require permission to use the camera. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Idea-03:**
 ### Universal Automotive App:
+
+Idea 03:
+
+Problem
+Controlling your car can be a pain to do manually especially constantly having to check gas and oil levels and having to kick your tires to see which one lacks pressure. 
+This can take time out of people already busy days and left ignored could cause problems. 
+
+Importance
+The idea is to offer a convenient way for users to check all these features from their phone as well as control most of the cars features from their phone, acting as a universal remote in a sense.
+This feature would be available to all cars as opposed to current implementations that only consider Tesla cars. 
+
+Trying to make a phone app that works as a remote control for your vehicle 
+It will allow you to control various features of your car from your phone
+* Heating
+* Radio
+* Check gas
+* Check trie pressure
+* Check oil levels
+* Control seat position 
+* Move side mirrors
+* Check rearview camera
+* GPS so you don’t lose your car in a parking lot
+
+Implementing these features would allow users to conveniently access the cars most important features from their phone is a quick and efficient manner
+
+The design would implement a user unique login where the user would have to link cars to their license through their local AMA (or equivalent motto insurance company)
+Logging in would require trusted devices as well as 2 factor authentication to lessen risk of fraud.  Users would hen be able to save their personal vehicles toothier account.
+From there users would have options to which feature they would like to access broken into categories
+* Levels - to check gas, oil, etc
+* Setting - to change seat location, mirror positions heating/radio etc
+* Find my car - to help find your car in a parking lot ‘
+* Turn on car - for cold winter days when you want car to heat up before 
+    * This can be done on alarm (turn on at 8am on this day)
+
+
+Additionaly most options will be inaccessible while car is being driven as well as per users request and can only be unlocked by unique 1time user set ID. 
 
 ##### Problem and service: 
 There are no universal remote control applications that can provide viable information to the user about their vehicle. This application aims to make it convenient for users to operate functions on their vehicles remotely. 
 The difficulty and cost of diagnosing your vehicle are not convenient to the user and it is also time-consuming (i.e taking it to the mechanic). The application would provide information to the user so they can maintain their vehicle easily prevent any future issues.
+
