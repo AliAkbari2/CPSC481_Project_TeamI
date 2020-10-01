@@ -24,3 +24,9 @@ prompt their on-site profile with various details such as how many bad-acts they
 The second category would be a specific filter, dedicated to specific acts which would then each different show a smaller database containing a list of offenders who commit
 said-act; taking the interacting-user to an evidence page, which could also lead directly to the user’s blacklist profile page. The last category would be dedicated for 
 submissions for potential offenses. This website could also have a mobile-friendly version. 
+
+Idea-02: AR Plant Status App:
+
+
+
+Idea-03: Universal Automotive App:
