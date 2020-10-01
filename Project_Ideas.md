@@ -30,3 +30,6 @@ Idea-02: AR Plant Status App:
 
 
 Idea-03: Universal Automotive App:
+
+Problem and service: There are no universal remote control applications that can provide viable information to the user about their vehicle. This application aims to make it convenient for users to operate functions on their vehicles remotely. 
+The difficulty and cost of diagnosing your vehicle are not convenient to the user and it is also time-consuming (i.e taking it to the mechanic). The application would provide information to the user so they can maintain their vehicle easily prevent any future issues.
