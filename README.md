@@ -13,7 +13,7 @@ _Note: These are about git bash because that's what I'm comfortable with at this
 
 2. Commit your changes locally (so that you can do step 3)
 
-    a. Use descriptive commit messages (this is part of the assignment!)
+    a. Use descriptive commit messages
 
     b. You can edit and preview Markdown (.md) files in Visual Studio Code. See: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 
@@ -27,4 +27,4 @@ _Note: These are about git bash because that's what I'm comfortable with at this
 
     a. This will mess up other people's local commit histories.
 
-4. We merge the stage branch into master before submitting and link to the master branch in our submission
+5. We leave the stage branches as-is after we're done with the stage. New stage branches should be created based off of `master`.
