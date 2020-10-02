@@ -84,3 +84,10 @@ Additionaly most options will be inaccessible while car is being driven as well 
 There are no universal remote control applications that can provide viable information to the user about their vehicle. This application aims to make it convenient for users to operate functions on their vehicles remotely. 
 The difficulty and cost of diagnosing your vehicle are not convenient to the user and it is also time-consuming (i.e taking it to the mechanic). The application would provide information to the user so they can maintain their vehicle easily prevent any future issues.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Links**
+### Portfolio:
+Link: https://zhichaodou.github.io/CPSC481_Project_Portfolio/
+### Repository:
+Link: https://github.com/zhichaodou/CPSC481_Project_TeamI
