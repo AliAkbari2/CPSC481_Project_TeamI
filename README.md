@@ -1,9 +1,9 @@
-# CPSC481_Project_TeamI_StageOne_Branch
+# CPSC481_Project_TeamI_StageTwo_Branch
 
 ## Description: 
 Group project for HCI.
 
-`stage_one` branch is dedicated to showing the process of stage one of the project. This includes our team contract and our three design ideas. 
+`stage_two` branch is dedicated to showing the process of stage two of the project. More contents to come. 
 
 
 ## Contribution guidelines:
