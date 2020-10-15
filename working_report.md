@@ -1,8 +1,18 @@
 #Project Description
 
-#Stakeholders
+#List Stakeholders
 
-#IDEO Methods
+#IDEO Methods:
+1. Survery and Question
 
-#Methods Reflection
+2. Shadowing
+
+3. Error Analysis 
+
+#Justification of reserach methods 
+
+
+#Method reflection 
+
+#Users tasks 
 
