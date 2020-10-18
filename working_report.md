@@ -13,6 +13,10 @@ Another good thing to notice was the separation between wanting straightforward 
 Then talking about plants, most people found themselves in a ranger form “alright-to-tough” in terms of fully managing a plant. No one really seemed to have trouble with watering the plant itself however especially amongst the younger crowd was a frustration on when to do the watering and how much at a time. Other issues in both groups included fertilizing and other various planting caring techniques, however it would appear that while younger people found it harder to “learn how to take care of a plan” versus “remembering how to take care of a plant.” Which in return matched up pretty well with the youth wanted a step-by-step feature in comparison to the more in depth “Why is my plant dying” feature that the mature group wanted. 
 
 2. Shadowing
+Using the “Look” method of shadowing, we decided to follow one of our family members throughout their daily routine along with analyzing those specific moments they had; attending to their plants. From this information, we were able to find some common issues with regards to plant caring. For most, it seemed like a love-hate relationship. The wanting to nourish and take good care of the plant, however feeling as though it’s a chore to do so. ‘How much water does it need? Did I remember to water it at all?’ 
+
+Other occurrences ranging from: leaves falling, color change, or unprecedented dehydration. All of these issues result in spending more time on the internet searching for a solution. It’s time consuming whereas they could be doing something else. 
+
 
 3. Error Analysis 
 
