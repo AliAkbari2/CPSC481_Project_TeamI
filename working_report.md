@@ -1,5 +1,8 @@
 #Project Description
 
+Our mobile application, which we are currently calling “Photo-synthesis.” Is an AR application which would be used to provide younger demographics with a fun and creative way to start learning about how to take care of plants. User would have cartoon-figures who will assist the user in setting up a location for where they should best set up a plant. Optionally users can opt to scan-in an already pre-plant one. Both choices however still result in the cartoon-figures providing step-by-step assistance along with helpful tips and positive feedback when they accomplish a task. Neutral but honest feedback will be providing is something goes wrong as to not discourage the user. Additionally, the app takes many features that would normally require the user to open a browser, is now implemented from within the application, this includes things such as research, explanations or product shopping. The application would normally be intended for younger audiences however would have an option to remove hide the cartoon filters for a dump-down more ‘professional’ version (in terms of cartoon assistance, graphics, etc.). 
+
+
 #List Stakeholders
 
 Listed by amount of experience
