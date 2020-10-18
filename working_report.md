@@ -23,11 +23,14 @@ Other occurrences ranging from: leaves falling, color change, or unprecedented d
 3. Error Analysis 
 
 It’s important to take note of all the potential ways a design would go south. When we were conducting our research, we already anticipated how a few things would go unplanned or may arise as an issue as time went on. Many software related issues could headaches such as; 
+
 -	The plant doesn’t get scanner in properly 
 -	The app recommends the wrong product (fertilizer, soil, etc.) 
 -	The UI is slow and unoptimized 
 -	The production transaction/order fails or doesn’t work properly (Assuming this function is still provided) 
+
 After reflexing from the results from our sent-out survey, and shadowing sessions. We have also been able to determine some potential way in which our design would produce a negative user experience;
+
 -	The app ends up being too “simplistic” or becomes a “cartoonish”-annoyance, making it unappealing to a mature demographic. In reverse, it becomes too serious such that is does not seems intuitive for younger people.
 -	The UI is too messy to navigate through and it comes tedious or unappealing. 
 -	The product suggestions are unrelatable or non-convincing. 
