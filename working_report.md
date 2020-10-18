@@ -2,6 +2,23 @@
 
 #List Stakeholders
 
+Listed by amount of experience
+Household plant owners
+	i. Kids
+	Ii. Parents
+Students
+Teachers
+Gardener
+Plantsmen 
+Botanist 
+
+While our app does not target any specific type of user, our design generally is most favorable for the plant enthusiasts with any experience. With little to no experience, specifically any beginners to gardening and those who would like to own plants and take care of them. This is further categorized into students, novice gardeners, and household plant owners. 
+In general households, family members can use the app to understand the responsibilities of owning plants. The parents of younger family members could be both the stakeholder and the users. As a stakeholder, they would want their kids to use the app as a teaching opportunity, for instance teaching the responsibility of ownership. The impact of this app on the parents is that it would make it easier, manageable, and fun to teach their kids. As users both the kids and the parents would have little to none experience and could learn together through the app.
+In a school place, our app can be utilized by students in terms of studying the nature of growing plants. In this case, the stakeholders would be the institutions and the instructors that provide courses that may integrate this app for related plant studies. This app would motivate students to learn, which would impact the institution and Instructors. Instructors should already have the background knowledge to support the app information. Students would be less experienced, however, they should be able to learn quickly from our application.   
+The more experienced users can use this app to further assist their daily activities which can be impactful in productivity.
+Gardeners can apply information displayed on our app for optimal growth in their garden. Plantmen can use the encyclopedia functionality of our app to discover more plants that they may love to incorporate in their garden.
+A botanist can use the app in their research to make some process faster which would be convenient.
+
 #IDEO Methods:
 1. Survery and Question
 
