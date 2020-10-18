@@ -64,3 +64,27 @@ We had little trouble collecting data or proposing ideas when conducting the thr
 
 #Users tasks 
 
+1.  User would be able to use application scanner
+
+- By using the scanner, they would be able to detect what the plant is, what its current condition 	 is; it’s hydration level, what type of soil it’s using, or what types of problems are arise from the plant. 
+
+2. User can be properly guided into setting up a healthy plant environment and successfully raising said plant through good instructions and reminders.
+
+- Step by step and easy-to-understand instructions would be provided throughout all steps of setup and maintenance of the plant, additional complex explanations and justifications for actions would be offered, if wanted. 
+
+3. Users would have access to additional information beyond the plant that they scan. 
+
+- If users are looking for a plant-index or more information on plant species, soil, or tools. The user-interface would also contain a wiki-like glossary which provide an alternative for those who need to re-open a computer or hope into an internet browser to start looking for answer. 
+
+4. Users who are using the gamified features would have a fun and intuitive experience. 
+
+- People who using the cartoony graphical-gamified version would experience something similar to the lines of ‘Tamagotchi’ or ‘Cooking Mama’ making it a fun and enjoyable time all the while learning valuable lessons on how to take good care of plants.   
+
+5. The application would also be able to provide ‘good answers’ as solutions to problems that they scan. 
+
+- Not only the application scanner-and-determine problems, but also when finding a problem, they will also determine the best course of action to solve the problem or a potential production recommendation. 
+
+6. User would be able to buy products that they were recommended.
+
+- When the user is given the option to buy a product, they will be offered a easy, quick and clean microtransaction system, which would contain common online payment methods, debit, visa, PayPal, Alipay, etc. 
+
