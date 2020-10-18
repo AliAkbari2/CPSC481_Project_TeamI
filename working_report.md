@@ -55,8 +55,12 @@ After reflexing from the results from our sent-out survey, and shadowing session
 
 #Justification of reserach methods 
 
+When selecting our IDEO methods, we first decide that the best course of action was to first extract as much user-information as we could. So, we first decide to run with the Survey and Questionnaire. By doing this we were able determine what were some common annoyances with regards to plant owning along with some studies on their daily routine and opinions on mobile applications. However, we need more user-data and hence we opted for our second IDEO method being shadowing. For those within our group who had family members that took care of plants, we spent a day spectating their routine interactions and noted certain aspects such as frustrations or even potential solutions with regards to how they treat their plants. Lastly, with the data we’ve been able to extract from both previous methods, when combined with some pre-proposed issues, we were able to develop a list of all the potential ways our design would go wrong. 
+
 
 #Method reflection 
+
+We had little trouble collecting data or proposing ideas when conducting the three methods. We see that the combination works relatively well; which is a mix between two data collections and one list of potential flaws. This set makes for a very good foundation on how we are going to ensure our design is of high expectations. However, one thing that I realized wasn’t really as “well.” While not “poor,” I found that some of the questions we were asking in the survey may not have been all that necessary nor valuable in terms of collecting data and instead just ended up crowding the screen. 
 
 #Users tasks 
 
