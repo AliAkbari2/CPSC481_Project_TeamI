@@ -5,7 +5,7 @@
 Listed by amount of experience
 Household plant owners
 	i. Kids
-	Ii. Parents
+	ii. Parents
 Students
 Teachers
 Gardener
