@@ -3,7 +3,7 @@
 ## Description: 
 Group project for HCI.
 
-`stage_one` branch is dedicated to showing the process of stage one of the project. This includes our team contract and our three design ideas. 
+`stage_four` branch is dedicated to showing the process of stage four of the project. This includes our heuristic evaluation.
 
 
 ## Contribution guidelines:
